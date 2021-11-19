@@ -1,0 +1,77 @@
+<div id="header"></div>
+
+<div class="left"></div>
+
+<div class="stuff">
+
+<br><br>
+
+<h1 style="color:bl;"> RESUME</h1>
+
+<h2>M.KAAVIYA HARANI</h2>
+
+<hr />
+
+<br>
+
+<h3 class="head">Education</h3>
+
+<ul>
+
+<h4 style="color:rgb(255, 0, 212);">SCHOOL:</h4>
+
+<li>AVB MATRICULATION SCHOOL</li>
+
+<li>PERIOD:2015-2016</li>
+
+<li>MARKS:93%</li>
+
+<h4 style="color:rgb(255, 0, 212);">DIPLOMA: </h4>
+
+<li>PSG POLYTECHNIC COLLEGE</li>
+
+<li>PERIOD: 2016-2019</li>
+
+<li>MARKS: 82%</li>
+
+</ul>
+
+<body style="background-color:powderblue;">
+
+<h3 class="head">HOBIES</h3>
+
+<ul>
+
+<li>Swimming</li>
+
+<li>Music</li>
+
+<li>Photoshoot</li>
+
+</ul>
+
+<h3 class="head">Skills</h3>
+
+<ul>
+
+<li>Database management</li>
+
+<li>problem solving</li>
+
+</ul>
+
+<h3 class="head">Internship</h3>
+
+<ul>
+
+<li>FORGE</li>
+
+<li>yantra mintra</li>
+
+</ul>
+
+</div>
+
+<div class="right"></div>
+
+<div id="footer">
